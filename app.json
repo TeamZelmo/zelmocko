@@ -9,18 +9,18 @@
     ],
     "repository": "https://github.com/vasusen-code/SaveRestrictedContentBot",
     "website": "",
-    "success_url": "https://t.me/DroneBots",
+    "success_url": "https://t.me/ROCKY_BOT_MAKER",
     "env": {
         "API_HASH": {
-            "description": "Your API HASH from my.telegram.org",
+            "description": "26691902",
             "value": ""
         },
         "API_ID": {
-            "description": "Your API ID from my.telegram.org",
+            "description": "be9744acfca84ae606d0da13b1b8e129",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "Bot token, get it from @BotFather.",
+            "description": "7689126032:AAH1vuEq-9938J69DZ7IYr0qlMcjVXWm9_M",
             "value": ""
         },
         "SESSION": {
@@ -28,11 +28,11 @@
             "value": ""
         },
         "AUTH": {
-            "description": "User ID of Bot owner.",
+            "description": "7020175431",
             "value": ""
         },
         "FORCESUB": {
-            "description": "Username name of public channel without using '@'.",
+            "description": "ROCKY_BOT_MAKER",
             "value": ""
         }
     },
